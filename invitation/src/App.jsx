@@ -288,7 +288,7 @@ function App() {
               이번 송년의 밤 디자인과 타임테이블을 준비해주신{" "}
               <br></br>
               <span className="thanks-name">명석님</span>께
-              <br className="mobile-only" /> 진심으로 감사합니다! 🎁
+              <span className="mobile-only" /> 진심으로 감사합니다! 🎁
             </p>
             {/* <p className="thanks-sub">
               섬세한 계획 덕분에 모두가 더 편하고 즐거운 연말을 보낼 수 있게
