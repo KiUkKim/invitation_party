@@ -191,7 +191,7 @@ function App() {
                 <div className="info-value">
                   시작 : 2025.12.26 (금) 18:00
                   <br />
-                  종료(예정) : 2025.12.27 (토) 10:00
+                  종료 : 2025.12.27 (토) 10:00
                 </div>
               </div>
               <div className="info-row">
@@ -205,7 +205,7 @@ function App() {
               <div className="info-row">
                 <div className="info-label">준비물</div>
                 <div className="info-value">
-                  <strong>체력, 쓸모없는 선물{" "}</strong>
+                  <strong>체력<br></br>쓸모없는 선물{" "}</strong>
                   (25,000원 상당)
                 </div>
               </div>
@@ -232,7 +232,7 @@ function App() {
                   <td className="schedule-time">18:00</td>
                   <td className="schedule-name">웰컴 드링크🍹</td>
                   <td className="schedule-note">
-                    1회 무료 리필 (2회부터 비용 발생)
+                    1회 무료 리필 <br></br>(2회부터 비용 발생)
                   </td>
                 </tr>
                 <tr>
@@ -286,6 +286,7 @@ function App() {
             <div className="thanks-badge">SPECIAL THANKS</div>
             <p className="thanks-main">
               이번 송년의 밤 디자인과 타임테이블을 준비해주신{" "}
+              <br></br>
               <span className="thanks-name">명석님</span>께
               <br className="mobile-only" /> 진심으로 감사합니다! 🎁
             </p>
