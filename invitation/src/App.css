@@ -352,7 +352,7 @@ body {
 
 .info-row {
   display: grid;
-  grid-template-columns: 20% 75%;
+  grid-template-columns: 16% 84%;
   border-bottom: 1px solid #ececff;
 }
 
