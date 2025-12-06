@@ -197,7 +197,7 @@ function App() {
               <div className="info-row">
                 <div className="info-label">장소</div>
                 <div className="info-value">
-                  서울특별시 마포구 공덕동 463번지,
+                  서울시 마포구 공덕동 463번지,
                   <br />
                   마포현대하이엘오피스텔 1302호
                 </div>
